@@ -1,1 +1,2 @@
-# nodejs-tryout
+# NodeJS tryout project
+fs + Express + MongoDB
